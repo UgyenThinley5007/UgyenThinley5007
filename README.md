@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding enthusiast with a passion for creating and innovating.
 - 🌱 I’m currently learning C#, Python, and web development.
 - 💞️ I’m looking to collaborate to build something extraordinary!
-- 📫 How to reach me ...
+- 📫 How to reach me: Email or Phone
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Exploring new technologies, embracing challenges, and collaborating with fellow developers.
 
